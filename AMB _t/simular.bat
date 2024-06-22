@@ -1,0 +1,1 @@
+vsim -do redo.do
